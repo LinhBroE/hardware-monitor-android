@@ -1,10 +1,4 @@
-[
-  {
-    "id": "version",
-    "value": "1.0"
-  }, 
-  {
-    "id": "developer",
-    "value": "Linh439912"
-  }
-]
+{
+  "version": "1.0",
+  "developer": "Linh439912"
+}
